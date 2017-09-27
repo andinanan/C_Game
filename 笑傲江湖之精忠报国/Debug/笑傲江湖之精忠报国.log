@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/9/26 23:03:18。
+     1>项目“F:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\笑傲江湖之精忠报国.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Game.c main.c
+         main.c
+     1>f:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\main.c(22): warning C4013: “_getch”未定义；假设外部返回 int
+         Game.c
+     1>f:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\game.c(326): warning C4047: “函数”:“int”与“char [74]”的间接级别不同
+     1>f:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\game.c(326): warning C4024: “setPosition”: 形参和实参 1 的类型不同
+     1>f:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\game.c(413): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>f:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\game.c(499): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\game.c(509): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\game.c(520): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+         正在生成代码...
+       Link:
+         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\taotao\c_game\笑傲江湖之精忠报国\Debug\笑傲江湖之精忠报国.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\taotao\c_game\笑傲江湖之精忠报国\Debug\笑傲江湖之精忠报国.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\taotao\c_game\笑傲江湖之精忠报国\Debug\笑傲江湖之精忠报国.lib" /MACHINE:X86 Debug\Game.obj
+         Debug\Gamelib.obj
+         Debug\main.obj
+         笑傲江湖之精忠报国.vcxproj -> F:\taotao\c_game\笑傲江湖之精忠报国\Debug\笑傲江湖之精忠报国.exe
+     1>已完成生成项目“F:\taotao\c_game\笑傲江湖之精忠报国\笑傲江湖之精忠报国\笑傲江湖之精忠报国.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.50
